@@ -1,0 +1,20 @@
+C:\Users\user-pc\Desktop\C#\SalesPerson Commision Calculator\SalesPerson Commision Calculator\bin\Debug\SalesPerson Commision Calculator.exe.config
+C:\Users\user-pc\Desktop\C#\SalesPerson Commision Calculator\SalesPerson Commision Calculator\bin\Debug\SalesPerson Commision Calculator.exe
+C:\Users\user-pc\Desktop\C#\SalesPerson Commision Calculator\SalesPerson Commision Calculator\bin\Debug\SalesPerson Commision Calculator.pdb
+C:\Users\user-pc\Desktop\C#\SalesPerson Commision Calculator\SalesPerson Commision Calculator\obj\Debug\SalesPerson Commision Calculator.csprojAssemblyReference.cache
+C:\Users\user-pc\Desktop\C#\SalesPerson Commision Calculator\SalesPerson Commision Calculator\obj\Debug\SalesPerson_Commision_Calculator.Form1.resources
+C:\Users\user-pc\Desktop\C#\SalesPerson Commision Calculator\SalesPerson Commision Calculator\obj\Debug\SalesPerson_Commision_Calculator.Properties.Resources.resources
+C:\Users\user-pc\Desktop\C#\SalesPerson Commision Calculator\SalesPerson Commision Calculator\obj\Debug\SalesPerson Commision Calculator.csproj.GenerateResource.cache
+C:\Users\user-pc\Desktop\C#\SalesPerson Commision Calculator\SalesPerson Commision Calculator\obj\Debug\SalesPerson Commision Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\Desktop\C#\SalesPerson Commision Calculator\SalesPerson Commision Calculator\obj\Debug\SalesPerson Commision Calculator.exe
+C:\Users\user-pc\Desktop\C#\SalesPerson Commision Calculator\SalesPerson Commision Calculator\obj\Debug\SalesPerson Commision Calculator.pdb
+C:\Users\user-pc\Desktop\Universiteit\C#\SalesPerson Commision Calculator\SalesPerson Commision Calculator\bin\Debug\SalesPerson Commision Calculator.exe.config
+C:\Users\user-pc\Desktop\Universiteit\C#\SalesPerson Commision Calculator\SalesPerson Commision Calculator\bin\Debug\SalesPerson Commision Calculator.exe
+C:\Users\user-pc\Desktop\Universiteit\C#\SalesPerson Commision Calculator\SalesPerson Commision Calculator\bin\Debug\SalesPerson Commision Calculator.pdb
+C:\Users\user-pc\Desktop\Universiteit\C#\SalesPerson Commision Calculator\SalesPerson Commision Calculator\obj\Debug\SalesPerson Commision Calculator.csproj.AssemblyReference.cache
+C:\Users\user-pc\Desktop\Universiteit\C#\SalesPerson Commision Calculator\SalesPerson Commision Calculator\obj\Debug\SalesPerson_Commision_Calculator.Form1.resources
+C:\Users\user-pc\Desktop\Universiteit\C#\SalesPerson Commision Calculator\SalesPerson Commision Calculator\obj\Debug\SalesPerson_Commision_Calculator.Properties.Resources.resources
+C:\Users\user-pc\Desktop\Universiteit\C#\SalesPerson Commision Calculator\SalesPerson Commision Calculator\obj\Debug\SalesPerson Commision Calculator.csproj.GenerateResource.cache
+C:\Users\user-pc\Desktop\Universiteit\C#\SalesPerson Commision Calculator\SalesPerson Commision Calculator\obj\Debug\SalesPerson Commision Calculator.csproj.CoreCompileInputs.cache
+C:\Users\user-pc\Desktop\Universiteit\C#\SalesPerson Commision Calculator\SalesPerson Commision Calculator\obj\Debug\SalesPerson Commision Calculator.exe
+C:\Users\user-pc\Desktop\Universiteit\C#\SalesPerson Commision Calculator\SalesPerson Commision Calculator\obj\Debug\SalesPerson Commision Calculator.pdb
