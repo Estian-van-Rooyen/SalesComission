@@ -1,2 +1,2 @@
-# SalesComission
+# Production
 # I made this program of salescomission so that the user can enter the revenue sale he got and the percentage of commision he got on the revenue sale to calculate the comission he earned on the revenue sale. The problem was that some people struggle to know how much comission they have earned on a revenue sale so this program helps alot to do it faster for the user so that the user does not struggle to calculate it.
